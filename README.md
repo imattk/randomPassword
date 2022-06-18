@@ -1,5 +1,6 @@
 # RandomPassword
-Random Password Generator
+Random Password Generator 
+LIVE SITE - https://imattk.github.io/randomPassword/
 
 Made a Random password generator using HTML, CSS, JavaScript and I added a fun feature with Sweet Alert.
 When you click the password you want it will copy it to the clipboard. then you get a "sweet alert" saying that its copied to clipboard. 
